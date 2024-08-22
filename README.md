@@ -1,3 +1,5 @@
+This is a housing app I created 
+
 # Angular Homes App
 - Install Angular if you don't have it installed
   `npm install -g @angular/cli`
